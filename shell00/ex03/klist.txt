@@ -1,0 +1,5 @@
+Credentials cache: API:CCE8F3D3-69FA-4650-A6E7-22156EC05176
+        Principal: suylee@42SEOUL.KR
+
+  Issued                Expires               Principal
+Jul 28 13:25:11 2020  Jul 28 23:25:11 2020  krbtgt/42SEOUL.KR@42SEOUL.KR
